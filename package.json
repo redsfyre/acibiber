@@ -1,0 +1,25 @@
+{
+  "name": "h5cf5c04e",
+  "version": "26.0.0",
+  "description": "An ordinary Telegram Bot",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "lowdb": "^1.0.0",
+    "node-telegram-bot-api": "^0.40.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Yasin İsa YILDIRIM",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/h5cf5c04e.git"
+  },
+  "keywords": [
+    "Telegram"
+  ]
+}
